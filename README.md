@@ -41,4 +41,8 @@ Using ERB tags, and the [DateTime library](http://ruby-doc.org/stdlib-2.3.1/libd
 display today's date in a `p` tag. The date should be formatted to look
 something like this `The date is Wednesday, November 18, 2015`.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-views-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-views-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra Views Lab</p>
